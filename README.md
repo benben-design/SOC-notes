@@ -10,18 +10,18 @@
 
 | תיקייה | מה יש בה |
 | --- | --- |
-| [`notes/`](notes/) | סיכום קצר לכל חדר לימוד. מתומצת בכוונה. |
+| [`notes/`](notes/) | סיכום קצר לכל חדר לימוד, ממוספר לפי סדר ההשלמה. |
 | [`investigations/`](investigations/) | חדרי אתגר, כתובים כדוחות אירוע. |
 | [`cheatsheets/`](cheatsheets/) | דפי עזר שאני באמת חוזר אליהם. |
 | [`_templates/`](_templates/) | שתי התבניות. |
 
 ## חדרים שהושלמו
 
-| תאריך | חדר | קטגוריה | סיכום |
-| --- | --- | --- | --- |
-| 2026-09-06 | Junior Security Analyst Intro | Foundations | [סיכום](notes/01-foundations/junior-security-analyst-intro.md) |
-| 2026-09-06 | SOC Role in Blue Team | Foundations | [סיכום](notes/01-foundations/soc-role-in-blue-team.md) |
-| 2026-09-06 | SOC Fundamentals | Foundations | [סיכום](notes/01-foundations/soc-fundamentals.md) |
+| # | תאריך | חדר | קטגוריה | סיכום |
+| --- | --- | --- | --- | --- |
+| 01 | 2026-09-06 | Junior Security Analyst Intro | Foundations | [סיכום](notes/01-foundations/01-junior-security-analyst-intro.md) |
+| 02 | 2026-09-06 | SOC Role in Blue Team | Foundations | [סיכום](notes/01-foundations/02-soc-role-in-blue-team.md) |
+| 03 | 2026-09-06 | SOC Fundamentals | Foundations | [סיכום](notes/01-foundations/03-soc-fundamentals.md) |
 
 ## התקדמות
 
