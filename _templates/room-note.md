@@ -1,32 +1,32 @@
-# <Room Name>
+# <שם החדר>
 
-`YYYY-MM-DD` · `<time spent>` · `<category>`
+`YYYY-MM-DD` · `<זמן>` · `<קטגוריה>` · [קישור לחדר](https://tryhackme.com/room/...)
 
-## What it covers
+## מה החדר מכסה
 
-- <one line per idea, 3-5 max>
+- <שורה אחת לכל רעיון, 3-5 מקסימום>
 -
 -
 
-## Key takeaways
+## תובנות מרכזיות
 
-1. <the thing worth remembering in six months>
+1. <מה ששווה לזכור בעוד חצי שנה>
 2.
 3.
 
-## Terms
+## מונחים
 
-- **<term>** — <one-line definition>
-- **<term>** — <one-line definition>
+- **<term>** — <הגדרה בשורה אחת>
+- **<term>** — <הגדרה בשורה אחת>
 
-## What I learned
+## מה למדתי
 
-<Ben writes this. Two sentences, own words. If this is empty the note is worthless.>
+> _(אני כותב. שתי שורות במילים שלי. אם זה ריק — הסיכום חסר ערך.)_
 
-## Where I got stuck
+## איפה נתקעתי
 
-<Ben writes this. Being honest here is what makes the notes useful later.>
+> _(אני כותב. להיות כנה כאן זה מה שהופך את הסיכומים לשימושיים אחר כך.)_
 
-## Interview angle
+## זווית לראיון
 
-<The question this room lets me answer confidently.>
+<השאלה שהחדר הזה מאפשר לי לענות עליה בביטחון.>

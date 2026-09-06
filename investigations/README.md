@@ -1,25 +1,23 @@
 # investigations/
 
-Challenge rooms written up as **incident reports**, not walkthroughs.
+חדרי אתגר, כתובים כ**דוחות אירוע** — לא כ-walkthrough.
 
-This is the portfolio half of the repo. Each write-up should stand on its own to a reader
-who has never seen the room: what was reported, how I investigated, what I found, what I
-would recommend.
+זה החצי של תיק העבודות. כל דוח צריך לעמוד בפני עצמו מול מישהו שמעולם לא ראה
+את החדר: מה דווח, איך חקרתי, מה מצאתי, ומה הייתי ממליץ.
 
-Use [`_templates/investigation.md`](../_templates/investigation.md).
+התבנית: [`_templates/investigation.md`](../_templates/investigation.md)
 
-## Rules
+## כללים
 
-1. **No flags, no answer strings.** Describe the method and the reasoning, never the
-   solution key. A write-up full of answers reads as copying, not solving.
-2. **Write the method section yourself.** It is the section interviewers ask about.
-3. **Map to MITRE ATT&CK.** It forces structured thinking and it is the shared vocabulary
-   in every SOC.
+1. **בלי flags ובלי תשובות מדויקות.** לתאר את השיטה ואת ההיגיון, לעולם לא את
+   מפתח הפתרון. דוח עם תשובות נקרא כהעתקה, לא כפתרון.
+2. **את סעיף השיטה אני כותב בעצמי.** זה הסעיף שעליו שואלים בראיון.
+3. **למפות ל-MITRE ATT&CK.** זה מכריח חשיבה מסודרת וזו השפה המשותפת בכל SOC.
 
-## Planned
+## מתוכנן
 
-- [ ] Carnage — malicious traffic analysis
-- [ ] Conti — ransomware on an Exchange server
-- [ ] Volt Typhoon — APT intrusion
-- [ ] Investigating Windows 2.0 — endpoint artefacts
-- [ ] Web Attack Forensics: Drone Alone — web attacks in logs
+- [ ] Carnage — ניתוח תעבורה זדונית
+- [ ] Conti — כופרה על שרת Exchange
+- [ ] Volt Typhoon — חקירת APT
+- [ ] Investigating Windows 2.0 — ארטיפקטים על endpoint
+- [ ] Web Attack Forensics: Drone Alone — תקיפות web בלוגים

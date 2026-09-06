@@ -1,46 +1,46 @@
-# <Room Name> — Investigation
+# <שם החדר> — חקירה
 
-`YYYY-MM-DD` · `<time spent>` · `<difficulty>`
+`YYYY-MM-DD` · `<זמן>` · `<רמת קושי>` · [קישור לחדר](https://tryhackme.com/room/...)
 
-## Scenario
+## תרחיש
 
-<What was reported, what I was asked to determine. Two or three sentences.>
+<מה דווח, מה התבקשתי לקבוע. שתיים-שלוש שורות.>
 
-## Tools used
+## כלים
 
-- <tool> — <what I used it for>
+- <כלי> — <למה השתמשתי בו>
 
-## Method
+## שיטת העבודה
 
-<How I approached it: where I started, what I pivoted on, what narrowed it down.
-This section is the whole point — an interviewer will ask about exactly this.>
+<איך ניגשתי: מאיפה התחלתי, על מה עשיתי pivot, מה צימצם את החיפוש.
+הסעיף הזה הוא כל העניין — בראיון ישאלו אותי בדיוק על זה. אני כותב אותו בעצמי.>
 
-## Timeline
+## ציר זמן
 
-| Time | Event | Source |
+| שעה | אירוע | מקור |
 | --- | --- | --- |
 | | | |
 
-## Indicators of compromise
+## סימני פריצה (IOCs)
 
-| Type | Indicator | Context |
+| סוג | אינדיקטור | הקשר |
 | --- | --- | --- |
 | | | |
 
-## MITRE ATT&CK mapping
+## מיפוי ל-MITRE ATT&CK
 
-| Tactic | Technique | Evidence |
+| Tactic | Technique | ראיה |
 | --- | --- | --- |
 | | | |
 
-## Findings
+## ממצאים
 
-<What actually happened, in plain language.>
+<מה באמת קרה, בשפה פשוטה.>
 
-## Recommendations
+## המלצות
 
-<What I would escalate, contain or ask for. Write it as if handing to a Tier 2 analyst.>
+<מה הייתי מסלים, מכיל או מבקש. לכתוב כאילו אני מוסר לאנליסט Tier 2.>
 
-## What I would do differently
+## מה הייתי עושה אחרת
 
-<Ben writes this.>
+> _(אני כותב.)_

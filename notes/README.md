@@ -1,21 +1,21 @@
 # notes/
 
-Working notes per learning room. **Terse.** If a note takes more than ten minutes to write,
-it is too long — the point is recall, not documentation.
+סיכומי עבודה לכל חדר לימוד. **קצר.** אם סיכום לוקח יותר מעשר דקות לכתוב —
+הוא ארוך מדי. המטרה היא לזכור, לא לתעד.
 
-Use [`_templates/room-note.md`](../_templates/room-note.md).
+התבנית: [`_templates/room-note.md`](../_templates/room-note.md)
 
-## Categories
+## קטגוריות
 
-| Folder | Covers |
+| תיקייה | מה נכנס לשם |
 | --- | --- |
-| `01-foundations/` | SOC roles and duties, Cyber Kill Chain, Unified Kill Chain, Pyramid of Pain |
-| `02-logs-siem/` | Log sources, log analysis, SIEM concepts, alert triage, alert reporting, SPL |
-| `03-endpoint-network/` | Windows and Linux logging, endpoint security, traffic analysis, web attack detection |
-| `04-phishing/` | Email anatomy, headers, malicious attachments, credential-harvesting pages |
-| `05-threat-intel/` | CTI fundamentals, IOC enrichment, detection engineering, threat hunting |
+| `01-foundations/` | תפקידי SOC וחובות, Cyber Kill Chain, Unified Kill Chain, Pyramid of Pain |
+| `02-logs-siem/` | מקורות לוג, ניתוח לוגים, SIEM, triage להתראות, כתיבת דוחות, SPL |
+| `03-endpoint-network/` | לוגים ב-Windows ו-Linux, endpoint security, ניתוח תעבורה, זיהוי תקיפות web |
+| `04-phishing/` | מבנה מייל, headers, קבצים מצורפים זדוניים, דפי גניבת credentials |
+| `05-threat-intel/` | יסודות CTI, העשרת IOC, detection engineering, threat hunting |
 
-## Naming
+## שמות קבצים
 
-One file per room, kebab-case, matching the room name:
+קובץ אחד לכל חדר, באנגלית kebab-case לפי שם החדר:
 `01-foundations/pyramid-of-pain.md`

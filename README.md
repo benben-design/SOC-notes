@@ -1,37 +1,38 @@
 # SOC-notes
 
-Blue-team study notes by **Ben Bar-Shai**, working toward a SOC Level 1 / security analyst role.
+סיכומי לימוד Blue Team של בן בר-שאי, בדרך לתפקיד SOC Level 1 Analyst.
 
-> **No flags, no answer strings.** These notes record *method and takeaways*, not solutions.
+> **בלי flags ובלי תשובות.** הסיכומים כאן מתעדים *שיטה ותובנות*, לא פתרונות.
 
 ---
 
-## Structure
+## מבנה
 
-| Folder | What's in it |
+| תיקייה | מה יש בה |
 | --- | --- |
-| [`notes/`](notes/) | Short notes per learning room. Terse by design. |
-| [`investigations/`](investigations/) | Challenge rooms written up as incident reports. |
-| [`cheatsheets/`](cheatsheets/) | Quick reference I actually reach for while working. |
-| [`_templates/`](_templates/) | The two note formats. |
+| [`notes/`](notes/) | סיכום קצר לכל חדר לימוד. מתומצת בכוונה. |
+| [`investigations/`](investigations/) | חדרי אתגר, כתובים כדוחות אירוע. |
+| [`cheatsheets/`](cheatsheets/) | דפי עזר שאני באמת חוזר אליהם. |
+| [`_templates/`](_templates/) | שתי התבניות. |
 
-## Rooms covered
+## חדרים שהושלמו
 
-| Date | Room | Topic | Notes |
+| תאריך | חדר | קטגוריה | סיכום |
 | --- | --- | --- | --- |
-| _pending first entry_ | | | |
+| 2026-09-06 | Junior Security Analyst Intro | Foundations | [סיכום](notes/01-foundations/junior-security-analyst-intro.md) |
+| 2026-09-06 | SOC Role in Blue Team | Foundations | [סיכום](notes/01-foundations/soc-role-in-blue-team.md) |
+| 2026-09-06 | SOC Fundamentals | Foundations | [סיכום](notes/01-foundations/soc-fundamentals.md) |
 
-## Progress
+## התקדמות
 
-- [ ] **Foundations** — SOC role, analyst duties, attack frameworks
-- [ ] **Logs & SIEM** — log sources, alert triage, reporting, SPL
-- [ ] **Endpoint & network monitoring** — Windows/Linux logging, traffic analysis
-- [ ] **Phishing analysis** — email structure, headers, malicious attachments
-- [ ] **Threat intel & detection engineering** — IOC enrichment, detection logic
-- [ ] **Investigations** — end-to-end challenge write-ups
+- [ ] **יסודות** — תפקיד ה-SOC, חובות האנליסט, מסגרות תקיפה
+- [ ] **לוגים ו-SIEM** — מקורות לוג, triage להתראות, כתיבת דוחות, SPL
+- [ ] **ניטור endpoint ורשת** — לוגים ב-Windows ו-Linux, ניתוח תעבורה
+- [ ] **ניתוח פישינג** — מבנה מייל, headers, קבצים זדוניים
+- [ ] **מודיעין איומים ו-detection engineering** — העשרת IOC, לוגיקת זיהוי
+- [ ] **חקירות** — דוחות אירוע מלאים
 
-## Background
+## רקע
 
-Three years operating a 24/7 command and control centre in the IDF C4I Corps — real-time
-monitoring, incident detection, escalation and shift reporting. This repo is the technical
-half: turning that operational instinct into security-specific skill.
+שלוש שנים כמפעיל חמ"ל תקשוב בצה"ל — ניטור 24/7, זיהוי אירועים בזמן אמת, הסלמה ודיווח
+במשמרות. הריפו הזה הוא החצי הטכני: להפוך את האינטואיציה המבצעית לידע סייבר ספציפי.

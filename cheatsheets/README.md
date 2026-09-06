@@ -1,16 +1,16 @@
 # cheatsheets/
 
-Quick reference built up as I go. This is the folder I expect to actually reopen —
-summaries get read once, cheatsheets get used.
+דפי עזר שנבנים תוך כדי תנועה. זו התיקייה שאני באמת אפתח שוב —
+סיכומים קוראים פעם אחת, דפי עזר משתמשים בהם.
 
-Rule: **nothing goes in here until I have used it at least once.** A copied reference table
-is worth nothing; a table of the ten things I keep forgetting is worth a lot.
+כלל: **שום דבר לא נכנס לכאן עד שהשתמשתי בו לפחות פעם אחת.** טבלה מועתקת
+שווה כלום; טבלה של עשרת הדברים שאני כל הזמן שוכח שווה הרבה.
 
-## Planned
+## מתוכנן
 
-- `windows-event-ids.md` — the event IDs that matter for detection
-- `linux-log-paths.md` — where the useful logs live and what they record
-- `spl-queries.md` — Splunk search patterns I keep reusing
-- `wireshark-filters.md` — display filters for common investigations
-- `email-headers.md` — reading a header chain for phishing analysis
-- `triage-checklist.md` — my own first-response checklist for an alert
+- `windows-event-ids.md` — ה-Event ID המשמעותיים לזיהוי
+- `linux-log-paths.md` — איפה הלוגים השימושיים יושבים ומה הם מתעדים
+- `spl-queries.md` — תבניות חיפוש ב-Splunk שאני חוזר עליהן
+- `wireshark-filters.md` — display filters לחקירות נפוצות
+- `email-headers.md` — קריאת שרשרת headers לניתוח פישינג
+- `triage-checklist.md` — צ'קליסט התגובה ראשונה שלי להתראה
