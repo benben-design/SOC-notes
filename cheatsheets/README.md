@@ -1,6 +1,6 @@
 # cheatsheets/
 
-דפי עזר שנבנים תוך כדי תנועה. זו התיקייה שאני באמת אפתח שוב —
+דפי עזר שנבנים תוך כדי תנועה. זו התיקייה שאני באמת אפתח שוב -
 סיכומים קוראים פעם אחת, דפי עזר משתמשים בהם.
 
 כלל: **שום דבר לא נכנס לכאן עד שהשתמשתי בו לפחות פעם אחת.** טבלה מועתקת
@@ -8,9 +8,9 @@
 
 ## מתוכנן
 
-- `windows-event-ids.md` — ה-Event ID המשמעותיים לזיהוי
-- `linux-log-paths.md` — איפה הלוגים השימושיים יושבים ומה הם מתעדים
-- `spl-queries.md` — תבניות חיפוש ב-Splunk שאני חוזר עליהן
-- `wireshark-filters.md` — display filters לחקירות נפוצות
-- `email-headers.md` — קריאת שרשרת headers לניתוח פישינג
-- `triage-checklist.md` — צ'קליסט התגובה ראשונה שלי להתראה
+- `windows-event-ids.md` - ה-Event ID המשמעותיים לזיהוי
+- `linux-log-paths.md` - איפה הלוגים השימושיים יושבים ומה הם מתעדים
+- `spl-queries.md` - תבניות חיפוש ב-Splunk שאני חוזר עליהן
+- `wireshark-filters.md` - display filters לחקירות נפוצות
+- `email-headers.md` - קריאת שרשרת headers לניתוח פישינג
+- `triage-checklist.md` - צ'קליסט התגובה ראשונה שלי להתראה

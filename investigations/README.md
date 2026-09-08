@@ -1,6 +1,6 @@
 # investigations/
 
-חדרי אתגר, כתובים כ**דוחות אירוע** — לא כ-walkthrough.
+חדרי אתגר, כתובים כ**דוחות אירוע** - לא כ-walkthrough.
 
 זה החצי של תיק העבודות. כל דוח צריך לעמוד בפני עצמו מול מישהו שמעולם לא ראה
 את החדר: מה דווח, איך חקרתי, מה מצאתי, ומה הייתי ממליץ.
@@ -16,8 +16,8 @@
 
 ## מתוכנן
 
-- [ ] Carnage — ניתוח תעבורה זדונית
-- [ ] Conti — כופרה על שרת Exchange
-- [ ] Volt Typhoon — חקירת APT
-- [ ] Investigating Windows 2.0 — ארטיפקטים על endpoint
-- [ ] Web Attack Forensics: Drone Alone — תקיפות web בלוגים
+- [ ] Carnage - ניתוח תעבורה זדונית
+- [ ] Conti - כופרה על שרת Exchange
+- [ ] Volt Typhoon - חקירת APT
+- [ ] Investigating Windows 2.0 - ארטיפקטים על endpoint
+- [ ] Web Attack Forensics: Drone Alone - תקיפות web בלוגים
