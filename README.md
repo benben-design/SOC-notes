@@ -22,6 +22,7 @@
 | 01 | 2026-09-06 | Junior Security Analyst Intro | Foundations | [סיכום](notes/01-foundations/01-junior-security-analyst-intro.md) |
 | 02 | 2026-09-06 | SOC Role in Blue Team | Foundations | [סיכום](notes/01-foundations/02-soc-role-in-blue-team.md) |
 | 03 | 2026-09-06 | SOC Fundamentals | Foundations | [סיכום](notes/01-foundations/03-soc-fundamentals.md) |
+| 04 | 2026-09-08 | Pyramid of Pain | Foundations | [סיכום](notes/01-foundations/04-pyramid-of-pain.md) |
 
 ## התקדמות
 
