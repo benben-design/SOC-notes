@@ -68,6 +68,8 @@
 
 ## מונחים
 
+<div dir="rtl">
+
 - **SIEM** (Security Information and Event Management) - ריכוז לוגים, קורלציה והתראות
 - **EDR** (Endpoint Detection and Response) - זיהוי ותגובה ברמת ה-endpoint
 - **Log source** - התקן או אפליקציה שמזינה לוגים ל-SIEM
@@ -75,6 +77,8 @@
 - **Vulnerability** - חולשה שתוקף יכול לנצל כדי לעשות מעבר להרשאות שלו
 - **Intrusion** - גישה לא מורשת למערכות או לרשת
 - **Security policy** - מערכת כללים להגנה ולעמידה ברגולציה
+
+</div>
 
 ## מה למדתי
 

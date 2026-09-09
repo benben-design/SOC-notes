@@ -30,6 +30,8 @@
 
 ## מונחים
 
+<div dir="rtl">
+
 - **CISO** (Chief Information Security Officer) - אחראי על החלטות האבטחה, מדווח להנהלה
 - **Red Team** - אבטחה התקפית: pentesters, ethical hackers
 - **GRC** (Governance, Risk & Compliance) - מדיניות ועמידה ברגולציה (למשל PCI DSS)
@@ -37,6 +39,8 @@
 - **CIRT / CSIRT / CERT** - צוות תגובה לאירועים חמורים (לדוגמה: JPCERT, Mandiant, AWS CIRT)
 - **MSSP** (Managed Security Services Provider) - חברה שמספקת שירותי SOC ללקוחות רבים
 - **SOC L2** - הצעד הטבעי אחרי L1; חוקר את המקרים המורכבים שהוסלמו
+
+</div>
 
 ## תפקידים ששווה להכיר
 
