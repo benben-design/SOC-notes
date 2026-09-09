@@ -23,6 +23,7 @@
 | 02 | 2026-09-06 | SOC Role in Blue Team | Foundations | [סיכום](notes/01-foundations/02-soc-role-in-blue-team.md) |
 | 03 | 2026-09-06 | SOC Fundamentals | Foundations | [סיכום](notes/01-foundations/03-soc-fundamentals.md) |
 | 04 | 2026-09-08 | Pyramid of Pain | Foundations | [סיכום](notes/01-foundations/04-pyramid-of-pain.md) |
+| 05 | 2026-09-09 | Cyber Kill Chain | Foundations | [סיכום](notes/01-foundations/05-cyber-kill-chain.md) |
 
 ## התקדמות
 
